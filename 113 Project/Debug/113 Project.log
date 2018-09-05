@@ -1,0 +1,4 @@
+﻿  113 Project.cpp
+c:\users\fox-pc\downloads\113_project\113_project\113 project\113 project\113 project.cpp(157): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\fox-pc\downloads\113_project\113_project\113 project\113 project\113 project.cpp(167): warning C4101: 'result': unreferenced local variable
+  113 Project.vcxproj -> C:\Users\Fox-PC\Downloads\113_Project\113_Project\113 Project\Debug\113 Project.exe
